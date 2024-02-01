@@ -4,4 +4,4 @@ channels:
   - bioconda
 dependencies:
   - python==3.11
-  - pip
+  - pip==23.3.2
